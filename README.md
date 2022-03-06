@@ -1,5 +1,12 @@
 ## Badwords
-PHP bad words detector 
+PHP bad words detector
+
+## Installation
+Install using composer:
+
+```bash
+composer require opendisk/php-badwords
+```
 
 ### Usage
 ```php
